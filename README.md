@@ -7,8 +7,8 @@
 
 Над проектом работали:
 
-<b>Михаил Михаловский</b> tg @mixalowski
-<b>Иван Давыдов</b> tg @XenonLr
-<b>Виктор Фрик</b> tg @viktorfrik
-<b>Элиза Мирсаяпова</b> tg @mirsayapovaeliza
-<b>Никита Ламонов</b> tg @Glhfda
+<b>Михаил Михаловский</b> tg @mixalowski \n
+<b>Иван Давыдов</b> tg @XenonLr \n
+<b>Виктор Фрик</b> tg @viktorfrik \n
+<b>Элиза Мирсаяпова</b> tg @mirsayapovaeliza \n
+<b>Никита Ламонов</b> tg @Glhfda \n
